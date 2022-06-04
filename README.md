@@ -13,3 +13,5 @@
 >depois de colocar o add você vai utilizar o código <pre><code>git commit -m "exemplo"</code></pre> esse código vai colocar um nome no seu arquivo
 
 >e a ultima passo é <pre><code>git push origin main</code></pre> esse código vai subir para o GITHUB os arquivos que estava selecionados no git add
+
+![Código-para-clonar-o-Repositório](https://user-images.githubusercontent.com/106358214/172008151-bfd56cdb-6954-4454-b463-e4587e50f337.png)
