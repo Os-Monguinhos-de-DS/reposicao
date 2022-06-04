@@ -12,4 +12,4 @@
 
 >depois de colocar o add você vai utilizar o código <pre><code>git commit -m "exemplo"</code></pre> esse código vai colocar um nome no seu arquivo
 
->e a ultima passo é <pre><code>git push</code></pre> esse código vai subir para o GITHUB os arquivos que estava selecionados no git add
+>e a ultima passo é <pre><code>git push origin main</code></pre> esse código vai subir para o GITHUB os arquivos que estava selecionados no git add
